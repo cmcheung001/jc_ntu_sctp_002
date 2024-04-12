@@ -18,3 +18,6 @@ create new branch  feature-x-0001-001 from  feature-x-0001 and edit this line
 
 
 
+Direct edit in main in git site
+
+
